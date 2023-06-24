@@ -1,0 +1,25 @@
+//Steps to create a new GitHub Repository
+1. go to your profile section 
+2. click on repositories and select the option named as "Create a new repository.
+3. now, type a name for your repository and click on add readme.md file and click on create.
+4. a new repositoy is sucessfully created and in order to add a file click on add file option then select Upload File or 
+   create a new file.
+
+//git installation and its basic commands
+1. download git from gitscrn.com and install it.
+2. now, go to cmd and type command 'git' to check if git is sucessfully installed or not.
+3. type command 'git -version'to know the version of the installed git.
+4. now, type command 'git clone repository_link' to clone a git repository.
+5. cd Desktop
+6. now create a directory or folder named same as your repository name.
+
+//vscode installation
+1. download vscode from microsoft website.
+2. download mingw compiler setup from mingw.org
+3. now, simply install vscode.
+4. extract mingw setup in c drive 
+5. go to bin folder of mingw and copy the exact path.
+6. now, go to advanced system settings and click on edit system and environment variables and click on path and then add new path
+   and paste the copied pathof mingw bin folder and click on ok and then close the window or popups.
+7. now go to vs code and download the extension named as C, C++ extension for Windows by Microsoft and click on install extension.
+8. vscode installed sucessfully.
